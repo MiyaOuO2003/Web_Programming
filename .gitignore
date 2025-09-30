@@ -3,5 +3,5 @@
 01357007-Exercise3.zip
 01357007-Exercise4.zip
 .gitignore
-.DS_Store
+*.DS_Store
 /01357007-Exercise4/resume-example.html
